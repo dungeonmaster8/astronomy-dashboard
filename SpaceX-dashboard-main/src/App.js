@@ -66,7 +66,7 @@ function App() {
         <Sidebar dispatch={dispatch} state={state} />
         <Maincontent data={data}/>
       </div>
-      {/* Developed By: Sudhansh Anand */}
+      {/* Developed By: Yash Mittal */}
       <Footer/>
     </div>
     
